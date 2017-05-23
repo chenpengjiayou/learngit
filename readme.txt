@@ -8,3 +8,4 @@ branch test
 forbidden fast forward
 fix bug.
 my name is zhangsan.
+merge from master
